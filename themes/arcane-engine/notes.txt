@@ -1,0 +1,11 @@
+rosanna password: uuqUs9^#hGGcp$6b18ibHkyV
+llyoyd password: uuqUs9^#hGGcp$6b18ibHkyV
+talia password: ni(lcfsyGuoZ0T!IZD(2!fHg
+durin password: 0IbQ8xKTonuf1Onq4oX5N&bd
+
+Notes about User Specific Site:
+- Should make custom post type before user is registered
+- Users must have the author user type
+- When making the custom post type, must include support for authors
+- All posts need to be set to that specific user
+- The custom post type must have the same name as the user's username
